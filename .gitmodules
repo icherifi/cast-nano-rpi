@@ -1,0 +1,6 @@
+[submodule "media-receiver-client/deps/json"]
+	path = media-receiver-client/deps/json
+	url = https://github.com/nlohmann/json.git
+[submodule "media-receiver-client/deps/libdatachannel"]
+	path = media-receiver-client/deps/libdatachannel
+	url = https://github.com/paullouisageneau/libdatachannel.git
