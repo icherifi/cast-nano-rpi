@@ -1,6 +1,22 @@
-cast-nano-rpi is optimized for rpi-zero-2-w
+# Screen Mirroring with Raspberry
 
-To build :
+Nano cast is implemented for Raspberry. This solution is an alternative of Chormecast or MiraCast. It's developped by a student in it's spare time and is still being developped.
+
+
+# Technical details
+
+## Diagram 1
+
+![alt text](https://github.com/[icherifi]/[cast-nano-rpi]/images/image.jpg?raw=true)
+
+
+## Diagram 2
+
+![alt text](https://github.com/[icherifi]/[cast-nano-rpi]/images/image.jpg?raw=true)
+
+
+# Build
+
 cd media-receiver-client/deps/libdatachannel
 git submodule update --init --recursive --depth 1
 cd ../..
@@ -22,3 +38,4 @@ web UI : http://localhost:8001/
 To-do :
     - Run html by connecting to the server
     - Test on Raspberry
+
