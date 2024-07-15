@@ -5,15 +5,17 @@ Nano cast is implemented for Raspberry. This solution is an alternative of Chorm
 
 # Technical details
 
-## Diagram 1
+## Overview
 
-![alt text](https://github.com/[icherifi]/[cast-nano-rpi]/images/image.jpg?raw=true)
+![alt text](https://github.com/icherifi/cast-nano-rpi/blob/main/diagram1.png)
 
+## Technical Detail
 
-## Diagram 2
+![alt text](https://github.com/icherifi/cast-nano-rpi/blob/main/diagram2.png)
 
-![alt text](https://github.com/[icherifi]/[cast-nano-rpi]/images/image.jpg?raw=true)
+## UI
 
+![alt text](https://github.com/icherifi/cast-nano-rpi/blob/main/diagram3.png)
 
 # Build
 
